@@ -15,7 +15,11 @@ In this project, we are going to focus on five objectives:
 We will do the following tasks:
 
 Task 1: Setting up your environment
+
 Task 2: Limiting network access to your database
+
 Task 3: Creating a dedicated database user for your application
+
 Task 4: Azure SQL Database Auditing and Temporal Tables
+
 Task 5: Defining a backup policy for you Azure SQL Database
